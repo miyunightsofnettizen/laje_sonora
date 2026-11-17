@@ -55,7 +55,7 @@ h1, h2, h3 {
     }
 
     .menu a {
-        font-weight: 600px;
+        font-weight: 600;
         text-decoration: none;
         padding-bottom: 4px;
         border-bottom: 4px solid transparent;
